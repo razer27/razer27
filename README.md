@@ -13,6 +13,9 @@
 
 <br/>
 
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ortonikc&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
