@@ -1,4 +1,3 @@
-#MY STATS (they are pathetic):
 
 
 ## 🌐 Socials:
